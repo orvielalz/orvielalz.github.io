@@ -1,0 +1,25 @@
+h1 {
+    font-size: 5em;
+}
+
+#profile_pic {
+    height: 400px;
+}
+
+.social_icon {
+    height: 50px;
+}
+
+body {
+    background-color: rgb(139, 203, 233);
+    color: rgb(88, 30, 88);
+}
+
+div {
+    background-color: rgb(238, 169, 211);
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
